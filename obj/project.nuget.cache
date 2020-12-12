@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0QO03cVqqPzBaeourWTmGOSV6h4q1zKe4S+cw3RY33Lk8+4U3vxh7AtwJjyApGCupUEgYsfbQBtr9HCEbu+Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\OOPLections\\2.StructureType\\2.StructureType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
